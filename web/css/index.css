@@ -1,0 +1,13 @@
+.profilImage {
+    border-radius: 20%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+    
+}
+.profilImage:hover {
+    transform: scale(1.2);
+}
